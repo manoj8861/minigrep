@@ -28,10 +28,3 @@ Inorder to search without case sensitivity
 ```sh
 IGNORE_CASE=1 cargo run -- <query> <filepath>
 ```
-
-
-
-```sh
-IGNORE_CASE=1 cargo run -- <query> <filepath>
-```
-
